@@ -5,6 +5,7 @@ function setup() {
 
 function draw() {
   // Code here runs continuously
+  //comment
   background(255);
 
   //drawGrid() is referenced to the drawGrid.js file. You can hide the grid by adding "//" in front of it. If you want to see the grid OVER your sketch, move it to the line before }.
